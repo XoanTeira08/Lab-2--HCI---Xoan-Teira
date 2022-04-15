@@ -1,0 +1,222 @@
+﻿* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    background-color: #ffffff;
+}
+#encabezado {
+    margin: 1%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 5px;
+    background-color: #CCD6D0;
+}
+#logo {
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+
+h1 {
+    font-size:200px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    color: #da0404;
+    font-size: 70px;
+    text-shadow: 3px 5px 5px #808080;
+}
+h2 {
+    font-size:150px;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-bottom: 10px;
+    color: #e4dede;
+    font-size: 40px;
+    text-shadow: 3px 5px 5px #000000;
+}
+#parrafos {
+    color: #000000;
+    font-size:30px;
+    text-align:center;
+    border: 5px #da0404 solid;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color:#808080;
+}
+#parrafo_lista {
+    text-align: left;
+    background-color: #808080;
+    color: #CCD6D0;
+    font-size: 25px;
+    padding-left: 30px;
+    Line-height:40px;
+}
+#botoncitos {
+    background-color:#808080;
+    margin-right:3px;
+    margin-left:0px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding-left: 450px;
+    padding-right:250px;
+    padding-bottom:0px;
+    padding-top:0px;
+}
+p{
+    background-color:#808080;
+    text-align:center;
+    color:#CCD6D0;
+    font-size: 25px;
+}
+li {
+    background-color: #808080;
+}
+
+th{
+    background-color: #CCD6D0;
+    font-size:25px;
+    color: #808080;
+    padding-left:270px;
+    margin-bottom: 100px;
+    text-align:center;
+}
+#tablita{
+    margin-top:100px;
+    margin-bottom:100px;
+}
+#categoria{
+    color:#da0404;
+}
+#boton_i {
+    font-size:20px;
+    color: #CCD6D0;
+    border: 3px #da0404 solid;
+    background-color: #da0404;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 20px;
+}
+h3 {
+    font-size:25px;
+    background-color: #da0404;
+    text-align: center;
+    color:#CCD6D0;
+}
+h4 {
+    text-align: center;
+    color: #da0404;
+    background-color: #CCD6D0;
+    padding-right:220px;
+    padding-left:225px;
+}
+#boton_p {
+    font-size: 20px;
+    color: #da0404;
+    border: 3px #da0404 solid;
+    background-color: #CCD6D0;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 20px;
+}
+#mision {
+    font-size: 25px;
+    color: #CCD6D0;
+    border: 5px #da0404 solid;
+}
+#vision {
+    font-size: 25px;
+    color: #CCD6D0;
+    border: 5px #da0404 solid;
+    margin-bottom: 50px;
+}
+.servicioPorEvento{
+    margin-top:50px;
+    margin-bottom:50px;
+}
+.imagenes-servicio {
+    border: 5px #da0404 solid;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 500px;
+    width: 500px;
+    margin-right: 350px;
+    margin-left: 550px;
+}
+.imagen-quienes {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 500px;
+    width: 500px;
+    margin-right: 200px;
+    margin-left: 600px;
+}
+.imagen-contacto {
+    border: 5px #da0404 solid;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 500px;
+    width: 500px;
+    margin-right: 350px;
+    margin-left: 550px;
+}
+.imagen-produ {
+    border: 5px #da0404 solid;
+    margin-bottom: 50px;
+    margin-left:250px;
+    height: 200px;
+    width: 200px;
+    float:left;
+}
+.imagen-clien {
+    border: 5px #da0404 solid;
+    margin-bottom: 10px;
+    margin-left: 250px;
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+.distribuidor{
+    margin-bottom:300px;
+}
+.clientes{
+    margin-bottom:10px;
+}
+.enlace-infoplaza{
+    color:#da0404;
+    margin-left:200px;
+    margin-bottom: 300px;
+}
+#titulo_vision {
+    padding-right: 220px;
+    padding-left: 240px;
+}
+#tablita a {
+    background-color: #CCD6D0;
+    font-size: 25px;
+    color: #808080;
+}
+#footer, #contacto{
+    font-size:20px;
+    text-align:center;
+    margin-top:0px;
+    background-color:#da0404;
+    color:#CCD6D0;
+}
+  #botoncito_ex{
+    text-align: center;
+    margin-top:0px;
+    background-color:#808080;
+    color:#da0404;
+}
+#barra_inferior {
+    text-align: center;
+    margin-top: 0px;
+    background-color: #808080;
+}
+
+
